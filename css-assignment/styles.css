@@ -1,0 +1,200 @@
+* {
+    margin: 0;
+
+}
+
+body {
+    background-image: url(dark-wood/dark-wood5.jpg);
+}
+
+body h2 {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+body p {
+    color: rgb(149, 135, 81);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    color: rgb(73, 13, 95);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    width: 950px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(248, 209, 130);
+
+}
+
+.content {
+    line-height: 1.4em;
+    padding: 10px;
+}
+
+
+footer,
+header,
+nav {
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+nav ul {
+    padding: 5px;
+}
+
+nav li {
+    display: inline-block;
+    margin: 40px;
+}
+
+nav {
+    text-transform: uppercase;
+}
+
+nav li :normal {
+    color: rgb(255, 0, 251)
+}
+
+nav li :visited {
+    color: rgb(241, 255, 84)
+}
+
+nav li :hover {
+    color: rgb(101, 237, 255)
+}
+
+nav li :active {
+    color: rgb(73, 13, 95)
+}
+
+a {
+    color: rgb(154, 14, 26);
+    text-decoration: none;
+}
+
+
+h1,
+h2,
+h3 {
+    margin: 10px;
+    text-transform: uppercase;
+}
+
+h1 {
+    color: rgb(13, 86, 95);
+}
+
+h2 {
+    color: rgb(214, 71, 83)
+}
+
+h3 {
+    color: rgb(181, 193, 2)
+}
+
+body .img-centre {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 2px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+audio,
+video {
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 800px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+td,
+th {
+    border: 1px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: rgb(214, 71, 83);
+}
+
+table th,
+tfoot td {
+    text-transform: uppercase;
+    background-color: rgb(149, 135, 81);
+    color: rgb(101, 237, 255);
+}
+
+dt {
+    text-decoration: bold;
+}
+
+footer {
+    font-size: 80%;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+iframe {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+fieldset {
+    width: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: auto;
+    border: 2px solid rgb(214, 71, 83);
+    background-color: rgb(58, 232, 255);
+}
+
+legend {
+    font-style: italic;
+    color: rgb(86, 61, 12);
+    background-color: rgb(98, 134, 138);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 8px;
+}
+
+input[type=submit] {
+    border: 3px dotted rgb(13, 86, 95);
+    background-color: rgb(172, 234, 73);
+    padding: 5px;
+    color: rgb(243, 26, 26);
+}
+
+input[type=submit]:hover {
+    color: rgb(172, 234, 73);
+    background-color: rgb(243, 26, 26);
+    cursor: pointer;
+}
