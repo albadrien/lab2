@@ -1,2 +1,2 @@
 # lab2
-http://albadrien.lab2.io/
+https://albadrien.github.io/lab2/
