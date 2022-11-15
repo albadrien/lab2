@@ -1,2 +1,2 @@
-# lab2
-https://albadrien.github.io/lab2/
+[# lab2](
+https://albadrien.github.io/lab2/)
